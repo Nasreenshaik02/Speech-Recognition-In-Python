@@ -1,0 +1,52 @@
+Working with Audio Files:
+After the installation of Speech Recognition in the command line it becomes easy to use the audio files because of its an Audio file class. The path of the audio file can be passed as the argument to the Audio File class and it also provides with the context manager as it helps in reading and working with the file material. The context manager then is responsible for opening of the audio file and finally stores the data of file in the instance of the Audio File. Then the record () method is used to store the data from the entire audio file and initialize it into the instance of Audio Data. The recognize google () is used to recognize any kind of speech in the audio. The results depend on the internet’s connection speed and are displayed and the speech to text conversion depends immensely on the accent and the speed of the speaker. As we have used the audio file our speech recognition system caught some words differently because of the vocabulary of the speaker.
+             
+                                            
+     
+                   
+ 
+                                          CHAPTER 5
+
+Performance Analysis: 
+5.1 System Requirements:
+       5.1.1 Requirements: 
+            a. 1.6 MHz Processor 
+            b. 128 MB RAM 
+            c. Microphones for good audio. 
+
+      5.1.2 Best Requirements: 
+            a. 2.4 GHz processor 
+            b. Greater than128 MB RAM 
+            c.10% consumption of memory 
+            d. Best quality microphones 
+
+5.2 Hardware Requirements:
+Microphones: 
+Microphones are the most important tools for the real time speech to text conversion in . Therefore the pre-installed ones cannot be used as they are more prone to the background noise and also of poor quality terms of speech.
+
+Computer Processor:
+Speech recognition application depends majorly on processing speed. The input from the user can take some 
+time if the processing speed is low and thus user wasted more time on waiting compared to performing the 
+task which makes the application less feasible for use
+5.3 Accuracy:
+Various factors can affect the accuracy of speech recognition. For example, a speaker’s age and accent can thwart the system’s ability to recognize speech. Another challenge is the number of variations found in human speech. These variations include speech sounds, inflections, and accents. Fortunately, recent advances in artificial intelligence have made it possible to develop speaker-independent speech recognition. The technology uses self-supervised learning models, allowing the system to learn more about the speakers’ voices and adjust its accuracy. One of the most important advances in speaker-independent speech recognition is deep learning. This technology utilizes neural networks as feature transformations. By utilizing faster processors and cheaper memory, the system can increase its vocabulary size and recognition accuracy. In addition, deep learning has decreased word error rates by 30%.
+ 
+6. CONCLUSION 
+The project of speech recognition gives us the introduction of this technology and its various application in different sectors. The project is divided into three parts, the first which helps in converting audio to text, the second which recognises the spoken word and the third which performs the operations provided as the command by the user. After the development of these parts these models were tested and the results were produced which tells about the accuracy of each model. Various advantages and disadvantages of this software is discussed.
+6.1 Advantages of Proposed Method:
+In mostly areas of the country, there are lot of people who don’t know how to write and also how to read any word, so this project is very helpful for these type of people as you know in today’s world, everybody has its own mobile phones and they want to search a lot of things. In this project, they usually speak what they want to search and various results of such type opens in the browser window.
+1. Ability to write text using speech.
+2. Different windows can be opened and web searches can be made. 
+ 3. More utilization of resources and less time consumption. 
+4. Recognizes different audio files and convert them to text. 
+     5. Helpful for disabled peoples.
+6.2 Disadvantages: 
+1. Low accuracy because of its limited ability. 
+2. Fails in noisy environment.
+3.Depends majorly on Google API thus not an original software.
+4. Limited operations can be performed                                 
+
+
+
+6.3 Future work:
+The tech to support speech Applications is today both Relatively Inexpensive and Powerful. With the betterment or the advance tech in Artificial Intelligence and to the increase amounts of Speech Data that can be easily mined, it is now possible to that voice becomes the next Dominant Interface. At So, We can also applause the many companies before us that propelled speech Recognition to where it is today. We Automate Transcription workflow and make it fast, easy and more affordable. We wouldn’t do this without the proper Work that has to been done before we.
