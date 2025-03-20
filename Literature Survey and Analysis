@@ -1,0 +1,52 @@
+                                                             CHAPTER 2                                          
+
+Literature Survey:  HISTORY: (1970-2010)
+The First speech recognition system was focused on numbers, not words. In 1952 bell Laboratory designed the “Audrey System” which could recognize a single voice speaking digits aloud. Ten years later IBM introduced “shoebox” which understood 16 words in English. Across the globe other nations developed hardware that could recognize sound and sleep. And by the end of ‘60s, the technology could support words with 4 vowels and nine consonants.
+From 1970’s:
+Speech recognition made several meaningful advancements in this Decade. This was mostly due to the US Department of defence and DARPA. The Speech Understanding Program SUR program there ran was one of the largest of its kind in the history of speech recognition. Mellon ‘Harpy Speech System came from this program and was capable of understanding over 1000 kind words that is about the same a three-year Old’s vocabulary. Also significant in the 70’s was Bell Laboratories introduction odd the system that could interpret multiple voices. 
+ From 1980’s:
+The ‘80s saw speech Recognition vocab go from few of hundred’s words to the several thousand words. One of the Breakthroughs that came from a statistical method known as the ‘Hidden Markov Model0 ‘HMM’ ‘. Instead of just using words and looking for the sound patterns. The Hmm estimated the probability of the unknown sounds actually being words. 
+From 1990’s:
+Speech recognition was propelled forward in the 90s in the large part because of the own personal computer. The faster processors made it possible for software like dragon dictate to become the more widely used bell south introduced the Voice Portal (VAL) in which was a dial in interactive voice recognition system. 
+This System give new birth to the myriad of the phones tree system that are still in the existence today.                                                      
+From 2000’s: 
+From the year 20002 Speech recognition Technology had achieved close to the 80 percent accuracy.  For almost of all the Decade there aren’t a lot of Advancements till Google has come with a start of Google search voice.  As it was an application which put speech recognition into hands of lakhs of people. This was also Significant because that the processing power would be offloaded to its data Centres. Not only for that, was Google Application collecting data from many billions of the searches which could help this to predict what a human is actually saying. That time Google’s English voice search system, included 240 billion words from user searches.                                                          
+From 2010’s:
+In 2012 Apple Launched SIRI which was as same as the Google’s VOICE SEARCH.  The early part of the decade saw an explosion of the other voice Recognition Applications.  And with Amazon’s ALEXA, Google Home we’ve seen consumers becoming more and more comfortable talking to Machines.  Today, some of the Largest Technical Companies are competing to herald the speech accuracy title. In 2015, IBM achieved a word ERROR RATE of 6.8%. IN 2016 Microsoft overpassed IBM with a 5.8 % claim. Shortly After that IBM improved their Rate to 5.4 %. However, it’s Google that claims the lowest Ratio rate at 4.8percent.   
+
+Analysis: 
+From apple SIRI to Smart Devices of home, Speech Recognition is very drastically used in our lives. This Speech Recognition project is to Utilize Cagle Speech Recognition Challenge Dataset to Create Kera Model on above of tenser flow & to create predictions in the voice files. 
+                                                                                                                                                                           
+             Now, use the microphone to get audio input from the user in real-time, recognize it, and print it in text. As you can see, you have performed speech recognition in Python to access the microphone and used a function to convert the audio into text form.    
+      
+                                                  
+3.1 SPEECH RECOGNITION TYPES 
+SPEECH RECOGNITION SYSTEM is basically divided into following depending on    various types: 
+Speaking Mode: 
+  Basically it means that how the words are been spoken as in connected or in isolated. In Isolated word of speech Recognition System needs that speaker take pause between the words he speak.It means single kind word In connected word of speech recognition system did not need that the speaker take pause briefly in between the words. It generally means full length sentences in which words are then artificially keep away by silence. 
+Speaking Style: 
+Generally it includes whether that the speech is in continuous form of spontaneous form. Continuous form is that spoken in natural form. Systems are too evaluated on speech read from the scripts that are prepared where as in spontaneous or extemporaneously generated, speech does not contain fluencies, and it is also difficult to figure out that speech read from the written script. It is also vastly much harder as it tends to be peppered with fluency like “UUH” and “UUM”, no full sentence, spluttering, stuttering, sneezing, cough, and also vocabulary is essentially unlimited, so there must be training to system to be able to tackle with unknown and hidden words. 
+Vocabulary: 
+IT is much simple to discriminate a smaller set of the words, but rate of error increase as the size of the vocabulary increases. For ex: 10 digits start from 0 -9 can easily be recognized rightly on the other side vocabulary whose size is 100, 4000 or 15000 have the rate of error as 3%, 6%, 40%. The vocabulary is hard to predict or recognize if it contains confused kind of words. 
+Enrolment: 
+This is kind of 2 ways 
+1) Speaker Dependent           
+ 2) Speaker independent 
+ In speaker dependent the user must be providing various samples of her or his speech before they’re used, a speaker dependent system is meant for use of only single kind speaker, where as speaker independent system is allowed or intended to use any type or kind of speaker. 
+ 
+The above diagram explains about the speech recognition process:
+
+Step1: Initially audio is taken as input by using microphone. Then this audio is sent to next step.
+
+Step2: Here the analog signals are converted into digital signals.
+
+Step3: Acoustic model converts raw audio signals into a sequence of phonetic units, which are then used by subsequent components of a speech recognition system to decode spoken language into text. 
+
+Step4:  A Language model in speech recognition helps in understanding the meaning and structure of spoken language, thereby enhancing the accuracy and reliability of converting spoken words into written text.
+
+Step5: It plays a crucial role in query processing, Information retrieval, Filtering and Natural Language Understanding.
+
+Step6: After converting spoken words into text (speech-to-text), the “Display” function may involve showing the recognized text on a screen or Interface. This allows users to verify the accuracy of the transcription. 
+
+      
+                                        
